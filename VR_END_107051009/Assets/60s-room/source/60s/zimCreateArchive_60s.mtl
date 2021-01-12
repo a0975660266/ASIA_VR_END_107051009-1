@@ -1,0 +1,476 @@
+﻿
+newmtl Material~0
+Kd 0.7 0.7 0.7 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+
+newmtl Material~12
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd 61+AYIE3TcL._SY300_.jpg
+map_bump Crumpled_white_paper_2.jpg
+
+newmtl Material~12_2
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd revolver_800.jpg
+map_bump Crumpled_white_paper_2.jpg
+
+newmtl Material~10
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.156863 0.156863 0.156863 
+d 1
+map_Kd Whaam.jpg
+map_bump Stone-Bump.png
+
+newmtl Material~11
+Kd 1 0.12 0.12 
+Ka 0.3 0.036 0.036 
+Ks 0.85 0.85 0.85 
+d 1
+
+newmtl Material~1
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd F1 (4).jpg
+map_bump F1 (4).jpg
+
+newmtl Metal
+Kd 0.631373 0.631373 0.631373 
+Ka 0.189412 0.189412 0.189412 
+Ks 0.599804 0.599804 0.599804 
+d 1
+
+newmtl Screws
+Kd 0.254902 0.258824 0.262745 
+Ka 0.0764706 0.0776471 0.0788235 
+Ks 0.203922 0.207059 0.210196 
+d 1
+map_Kd ScrewB.jpg
+
+newmtl Black_plastic
+Kd 0.0706 0.0706 0.0706 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
+
+newmtl Magenta
+Kd 0.368627 0.368627 0.368627 
+Ka 0.110588 0.110588 0.110588 
+Ks 0.544118 0.544118 0.544118 
+d 1
+map_bump Speckledtexture Alpha.png
+
+newmtl Screen
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0 0 0 
+d 1
+map_Kd Upbeatdancersx.jpg
+
+newmtl Default
+Kd 0.592157 0.486275 0.317647 
+Ka 0.177647 0.145882 0.0952941 
+Ks 0.85 0.85 0.85 
+d 1
+
+newmtl Default_2
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd archinteriors_vol6_001_wood43.jpg
+
+newmtl Brass
+Kd 0.831373 0.752941 0.592157 
+Ka 0.249412 0.225882 0.177647 
+Ks 0.748235 0.677647 0.532941 
+d 1
+
+newmtl Default_3
+Kd 0.428125 0.428125 0.655625 
+Ka 0.3 0.3 0.6 
+Ks 0 0 0 
+d 1
+
+newmtl Orang Light
+Kd 1 0.545098 0.239216 
+Ka 0.3 0.163529 0.0717647 
+Ks 0 0 0 
+d 1
+
+newmtl Brushed Stainless Steel
+Kd 0.619608 0.619608 0.619608 
+Ka 0.185882 0.185882 0.185882 
+Ks 0.309804 0.309804 0.309804 
+d 1
+map_Kd BRUSHED-STAINLESS-CMYK.jpg
+map_bump BRUSHED-STAINLESS-CMYK.jpg
+
+newmtl Green
+Kd 0.54902 0.364706 0.270588 
+Ka 0.164706 0.109412 0.0811765 
+Ks 0.85 0.85 0.85 
+d 1
+map_bump Glacier Displace.jpg
+
+newmtl Red
+Kd 1 0.952941 0.772549 
+Ka 0.3 0.285882 0.231765 
+Ks 0.847059 0.847059 0.847059 
+d 1
+map_Kd maple wood.jpg
+
+newmtl Green_2
+Kd 0.976471 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd Dralon1.jpg
+map_bump Dralon.jpg
+
+newmtl Orange
+Kd 0.72549 0.72549 0.72549 
+Ka 0.217647 0.217647 0.217647 
+Ks 0.362745 0.362745 0.362745 
+d 1
+
+newmtl Default_4
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
+
+newmtl Orange_2
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd archinteriors_vol6_001_wood43.jpg
+
+newmtl Cyan
+Kd 0.631373 0.631373 0.631373 
+Ka 0.189412 0.189412 0.189412 
+Ks 0.599804 0.599804 0.599804 
+d 1
+
+newmtl Cyan_2
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd notebook_4.jpg
+map_bump notebook_4.jpg
+
+newmtl Orange_3
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd Cardboard_1.jpg
+map_bump Cardboard_1.jpg
+
+newmtl Green_3
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd 360_cover_0509.jpg
+map_bump Cardboard_2.jpg
+
+newmtl Cyan_3
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.85 0.85 0.85 
+d 1
+
+newmtl Blue
+Kd 0.901961 0.913725 0.921569 
+Ka 0.270588 0.274118 0.276471 
+Ks 0.721569 0.73098 0.737255 
+d 1
+
+newmtl Magenta_2
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd sixties1.jpg
+map_bump sixtiesdark1.jpg
+
+newmtl Orange_4
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd sixtiesdark.jpg
+map_bump sixties.jpg
+
+newmtl Ceiling
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd Stucoo-8.jpg
+map_bump Stucoo-8.jpg
+
+newmtl Default_5
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
+
+newmtl Red_2
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd archinteriors_vol6_001_wood43.jpg
+
+newmtl Green_4
+Kd 0.419608 0.419608 0.419608 
+Ka 0.209804 0.209804 0.209804 
+Ks 0.839216 0.839216 0.839216 
+d 0.74
+
+newmtl Orange_5
+Kd 1 1 0.498039 
+Ka 0.3 0.3 0.149412 
+Ks 0.85 0.85 0.85 
+d 1
+
+newmtl Red_3
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd archinteriors_vol6_001_wood43.jpg
+
+newmtl Green_5
+Kd 0.419608 0.419608 0.419608 
+Ka 0.209804 0.209804 0.209804 
+Ks 0.839216 0.839216 0.839216 
+d 0.74
+
+newmtl Orange_6
+Kd 1 1 0.498039 
+Ka 0.3 0.3 0.149412 
+Ks 0.85 0.85 0.85 
+d 1
+
+newmtl Default_6
+Kd 1 0.545098 0.239216 
+Ka 0.3 0.163529 0.0717647 
+Ks 0 0 0 
+d 1
+
+newmtl Blue_2
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.99 0.99 0.99 
+d 1
+map_Kd antique brass texture.jpg
+map_bump antique brass texture.jpg
+
+newmtl Cyan_4
+Kd 0.7125 0.7125 0.6225 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd 0 (16).jpg
+
+newmtl Orange_7
+Kd 1 0.498 0 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
+
+newmtl Patterned fabric 2
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd Untitled.png
+
+newmtl DefaultMaterial~2
+Kd 0.666667 0.596078 0.478431 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_bump cbs-gold.jpg
+
+newmtl Green_6
+Kd 0.331373 0.231373 0.121569 
+Ka 0.344078 0.237961 0.147922 
+Ks 0.187216 0.132863 0.0483137 
+d 1
+
+newmtl Cyan_5
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd archinteriors_vol6_001_wood43.jpg
+
+newmtl Bright White Ceramic
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 1 1 1 
+d 1
+
+newmtl Orange_8
+Kd 0.192157 0.0941176 0 
+Ka 0.0576471 0.0282353 0 
+Ks 0.85 0.85 0.85 
+d 1
+map_bump Finishes.Flooring.VCT.Grid.bump.jpg
+
+newmtl Green_7
+Kd 0.368627 0.368627 0.368627 
+Ka 0.110588 0.110588 0.110588 
+Ks 0.544118 0.544118 0.544118 
+d 1
+map_bump Speckledtexture Alpha.png
+
+newmtl Red_4
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd lined-white-paper.jpg
+map_bump lined-white-paper.jpg
+
+newmtl Default_7
+Kd 1 0.784314 0.537255 
+Ka 0.3 0.235294 0.161176 
+Ks 0.85 0.85 0.85 
+d 1
+map_bump Carbon Fiber.jpg
+
+newmtl Cyan_6
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd wood_71.jpg
+map_bump wood_71.jpg
+
+newmtl porcelain 1
+Kd 0.788235 0.886275 1 
+Ka 0.236471 0.265882 0.3 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd 173821-cambourne-porcelain-blue-by-f-schumacher.jpg
+map_bump 173821-cambourne-porcelain-blue-by-f-schumacher.jpg
+
+newmtl Green_8
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd 0 (42).jpg
+map_bump 0 (42).jpg
+
+newmtl Cyan_7
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0 0 0 
+d 1
+
+newmtl Default_8
+Kd 1 0.784314 0.537255 
+Ka 0.3 0.235294 0.161176 
+Ks 0.85 0.85 0.85 
+d 1
+map_bump Carbon Fiber.jpg
+
+newmtl Cyan_8
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd wood_71.jpg
+map_bump wood_71.jpg
+
+newmtl Default_9
+Kd 1 0.784314 0.537255 
+Ka 0.3 0.235294 0.161176 
+Ks 0.85 0.85 0.85 
+d 1
+map_bump Carbon Fiber.jpg
+
+newmtl Cyan_9
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd wood_71.jpg
+map_bump wood_71.jpg
+
+newmtl Green_9
+Kd 1 0 0 
+Ka 0.3 0 0 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd 326641b.jpg
+
+newmtl Blue_3
+Kd 0 0 0 
+Ka 0 0 0 
+Ks 0.247059 0.247059 0.247059 
+d 1
+
+newmtl Blue_4
+Kd 0.588235 0.588235 0.588235 
+Ka 0.176471 0.176471 0.176471 
+Ks 0.85 0.85 0.85 
+d 1
+
+newmtl Magenta_3
+Kd 1 1 1 
+Ka 0.3 0.3 0.3 
+Ks 0.762353 0.335294 0.0847059 
+d 1
+map_bump Metal_RustyIron_Normal.jpeg
+
+newmtl Red_5
+Kd 1 0.780392 0.917647 
+Ka 0.3 0.234118 0.275294 
+Ks 0.85 0.85 0.85 
+d 1
+map_Kd meshb.jpg
+map_bump meshb.jpg
+
+newmtl Default_10
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 1 1 1 
+d 1
+
+newmtl Orange_9
+Kd 0.784314 0.0784314 0.0784314 
+Ka 0.235294 0.0235294 0.0235294 
+Ks 0 0 0 
+d 1
+
+newmtl Green_10
+Kd 1 1 1 
+Ka 0 0 0 
+Ks 0 0 0 
+d 1
+map_Kd 1 (44).jpg
+map_bump 1 (44).jpg
+
+newmtl Cyan_10
+Kd 0.592157 0.486275 0.317647 
+Ka 0.177647 0.145882 0.0952941 
+Ks 0.85 0.85 0.85 
+d 1
