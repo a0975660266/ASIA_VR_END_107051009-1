@@ -39,6 +39,14 @@ ScriptsOnlyBuild:
     - Valve.VR.SteamVR_Skeleton_Poser
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.XR.Management.Editor.dll:
+    - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
+    Unity.XR.Management.dll:
+    - UnityEngine.XR.Management.XRGeneralSettings
+    - UnityEngine.XR.Management.XRManagerSettings
+    Unity.XR.OpenVR.dll:
+    - Unity.XR.OpenVR.OpenVRLoader
+    - Unity.XR.OpenVR.OpenVRSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -105,95 +113,95 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11182}
+      Script: {instanceID: 14342}
     - Class: 114
-      Script: {instanceID: 11390}
+      Script: {instanceID: 14358}
     - Class: 114
-      Script: {instanceID: 11406}
+      Script: {instanceID: 14386}
     - Class: 114
-      Script: {instanceID: 11434}
+      Script: {instanceID: 14432}
     - Class: 114
-      Script: {instanceID: 11486}
+      Script: {instanceID: 14488}
     - Class: 114
-      Script: {instanceID: 11542}
+      Script: {instanceID: 14502}
     - Class: 114
-      Script: {instanceID: 11556}
+      Script: {instanceID: 14540}
     - Class: 114
-      Script: {instanceID: 11594}
+      Script: {instanceID: 14588}
     - Class: 114
-      Script: {instanceID: 11644}
+      Script: {instanceID: 14644}
     - Class: 114
-      Script: {instanceID: 11702}
+      Script: {instanceID: 14652}
     - Class: 114
-      Script: {instanceID: 11710}
+      Script: {instanceID: 14688}
     - Class: 114
-      Script: {instanceID: 11746}
+      Script: {instanceID: 14700}
     - Class: 114
-      Script: {instanceID: 11758}
+      Script: {instanceID: 14754}
     - Class: 114
-      Script: {instanceID: 11812}
+      Script: {instanceID: 14942}
     - Class: 114
-      Script: {instanceID: 12002}
+      Script: {instanceID: 14994}
     - Class: 114
-      Script: {instanceID: 12056}
+      Script: {instanceID: 15042}
     - Class: 114
-      Script: {instanceID: 12106}
+      Script: {instanceID: 15044}
     - Class: 114
-      Script: {instanceID: 12110}
+      Script: {instanceID: 15078}
     - Class: 114
-      Script: {instanceID: 12148}
+      Script: {instanceID: 15144}
     - Class: 114
-      Script: {instanceID: 12276}
+      Script: {instanceID: 15232}
     - Class: 114
-      Script: {instanceID: 12366}
+      Script: {instanceID: 15250}
     - Class: 114
-      Script: {instanceID: 12386}
+      Script: {instanceID: 15276}
     - Class: 114
-      Script: {instanceID: 12412}
+      Script: {instanceID: 15380}
     - Class: 114
-      Script: {instanceID: 12518}
+      Script: {instanceID: 15416}
     - Class: 114
-      Script: {instanceID: 12554}
+      Script: {instanceID: 15532}
     - Class: 114
-      Script: {instanceID: 12670}
+      Script: {instanceID: 15584}
     - Class: 114
-      Script: {instanceID: 12722}
+      Script: {instanceID: 15640}
     - Class: 114
-      Script: {instanceID: 12782}
+      Script: {instanceID: 15766}
     - Class: 114
-      Script: {instanceID: 12918}
+      Script: {instanceID: 15768}
     - Class: 114
-      Script: {instanceID: 12920}
+      Script: {instanceID: 15854}
     - Class: 114
-      Script: {instanceID: 13010}
+      Script: {instanceID: 15858}
     - Class: 114
-      Script: {instanceID: 13014}
+      Script: {instanceID: 15876}
     - Class: 114
-      Script: {instanceID: 13032}
+      Script: {instanceID: 15898}
     - Class: 114
-      Script: {instanceID: 13054}
+      Script: {instanceID: 15938}
     - Class: 114
-      Script: {instanceID: 13094}
+      Script: {instanceID: 16078}
     - Class: 114
-      Script: {instanceID: 13240}
+      Script: {instanceID: 16094}
     - Class: 114
-      Script: {instanceID: 13258}
+      Script: {instanceID: 16098}
     - Class: 114
-      Script: {instanceID: 13356}
+      Script: {instanceID: 16192}
     - Class: 114
-      Script: {instanceID: 13408}
+      Script: {instanceID: 16244}
     - Class: 114
-      Script: {instanceID: 13428}
+      Script: {instanceID: 16264}
     - Class: 114
-      Script: {instanceID: 13546}
+      Script: {instanceID: 16380}
     - Class: 114
-      Script: {instanceID: 13610}
+      Script: {instanceID: 16442}
     - Class: 114
-      Script: {instanceID: 13628}
+      Script: {instanceID: 16460}
     - Class: 114
-      Script: {instanceID: 13694}
+      Script: {instanceID: 16526}
     - Class: 114
-      Script: {instanceID: 13718}
+      Script: {instanceID: 16550}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -227,12 +235,6 @@ ScriptsOnlyBuild:
     - Class: 258
       Script: {instanceID: 0}
   scriptHashData:
-  - hash:
-      serializedVersion: 2
-      Hash: ae83e830e7a90c0aff918c4c2e520825
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: GraphicRaycaster
   - hash:
       serializedVersion: 2
       Hash: 4bc4346a71a8df53a6b106f68ef3a190
@@ -830,12 +832,6 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: SteamVR.dll
-    namespaceName: Unity.XR.OpenVR
-    className: OpenVRPackageInstaller
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SpriteAnimator
@@ -1195,6 +1191,12 @@ ScriptsOnlyBuild:
     className: DebugUI
   - hash:
       serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
       Hash: b57359776be41d06875f951db3b7ba34
     assemblyName: SteamVR.dll
     namespaceName: 
@@ -1457,6 +1459,60 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 04e4a8b0447477cc4e933d9e5311188f
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: ArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 98aa0a0c8ff2910eb12af89c7e0eb661
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRGeneralSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 52bcb9c2a78bdd8d98a59e915c346e75
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: TransitionArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: d251bf88db6c95a6b1aa0b69298da9ef
+    assemblyName: UnityEngine.SpatialTracking.dll
+    namespaceName: UnityEngine.SpatialTracking
+    className: TrackedPoseDriver
+  - hash:
+      serializedVersion: 2
+      Hash: 2443caa27902449f1eb355f2bd6c7d3e
+    assemblyName: Unity.XR.OpenVR.dll
+    namespaceName: Unity.XR.OpenVR
+    className: OpenVRSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 24c74cc0d527a06113f2b967042769f0
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEditor.XR.LegacyInputHelpers
+    className: CameraOffset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.XR.OpenVR.dll
+    namespaceName: Unity.XR.OpenVR
+    className: OpenVRLoader
+  - hash:
+      serializedVersion: 2
+      Hash: 893dbdbfe611d62e230a686ea89f1efd
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: SwingArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 8ab9295d94483c961936d82d233d3df2
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRManagerSettings
   platform: 19
   scenePathNames:
   - "Assets/\u4E1F\u5783\u573E.unity"

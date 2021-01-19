@@ -4,6 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - projectile
+  - FxTemporaire
   - "\u5783\u573E"
   layers:
   - Default
